@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-people-flutter",
+  "capabilityKey": "planned:sap:people",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_people_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/people.md",
+  "presentationPlan": "projects/sap/flutter/people.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
